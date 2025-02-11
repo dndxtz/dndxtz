@@ -1,4 +1,4 @@
-[![dndxtz github stats](https://github-readme-stats.vercel.app/api?username=dndxtz&show_icons=true&theme=dracula)](https://github.com/dndxtz)
+[![Count](https://komarev.com/ghpvc/?username=dndxtz&style=flat-square&color=red)](https://github.com/dndxtz)
 
 - 👊  Hi, I’m @dndxtz
 - 📱   I make good shit (maybe)
